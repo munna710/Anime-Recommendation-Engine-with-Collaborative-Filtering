@@ -1,1 +1,3 @@
 venv/
+models/svd_model.pkl
+data_processed/ratings.parquet
